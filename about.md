@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I am a student at University of British Columbia and I set this blog up for my Master of Data Science classes.
