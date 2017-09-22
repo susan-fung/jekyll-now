@@ -1,0 +1,17 @@
+---
+layout: post
+title: What is Open Source Software?
+---
+What do our favorite Data Science tools like Git, R, Docker and Atom have in common? They are all open source software! In this blog post, I hope to explain what open source software is at a high level and build the foundation for future, more in-depth exploration.
+
+First, open source software refers to the way software is developed collaboratively by the public, not limited by organization or geography. Motivated developers can join a collaboration site (like Github) where the project is hosted, and start contributing code to the open source project or raise issues. Another characteristic of the development model is the dual role of its members: a member can be a consumer of the open source code, and at the same time, be a contributor – find a bug, fix it, and contribute the bug fix back to the community.
+
+Secondly, open source refers to the source code being available to the general public. You can, for example, not only just download and use Atom, you can also look at its source code line-by-line. You can change the code to make it better or fix a bug (i.e. make modifications), you can include the code as a library in your programming project (i.e. create a derivative work), or you can even make the derivative work available to your customers (i.e. distribute).
+
+Thirdly, open source describes the legal mechanisms that give people permission to use your code. Open source software comes with a license, a legally binding agreement between the author and the person who uses it. Typically, you see the license when you install the software (e.g. when you click the “I Agree” button), or you can see it under the License tab on Github, and often, it is found in a LICENSE.txt or README.txt file in the code repository.
+
+Open source licenses generally state what you can do with the software. These are the rights grants – for example, the right to make modifications, make derivative works and distribute, as mentioned above. They also state what you cannot do with the software. (For example, some licenses may prohibit commercial use, or some, rather comically, prohibit use for “Evil”.) Importantly, open source licenses also include the obligations that you – as the user of the software – must fulfil. 
+
+For example, almost all open source licenses have an attribution requirement. Not unlike in college, where you must attribute your sources in your research papers. Some licenses require that you share your modifications with recipients. R and Git are under a class of license called “copyleft”. Suppose you wrote some code for your project, and you included an open source library with a copyleft license. Under some circumstances, you could be obligated to provide the source code for your entire project, for free, under the same copyleft license.
+
+To conclude, I cannot stress enough the importance of reading and understanding the license of the open source that you are using – just because a piece of software is free of charge doesn't mean you are free of obligations. I also hope you will get a chance to participate in a community by contributing code or bug fixes. At the end of the day, open source software is not just a technical or legal topic. It is a philosophy that embodies a collaborative spirit and passionately advocates the idea that we will all have better software, and maybe a better world, if we freely share our code.
